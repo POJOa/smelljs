@@ -1,11 +1,3 @@
-{
-  "name": "smelljs",
-  "version": "1.0.0",
-  "description": "mkdir commits mkdir res-step2 git clone https://github.com/REPO/MODULE.git uut node commits.js > /dev/null node clean.js node report.js > report.txt node issues.js REPO/MODULE > issues.json node combine.js",
-  "main": "boxer.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6918ede96772e014f2f6bc959ea5f99de79c187e55db852641f58a30df924c5
+size 408
