@@ -1,0 +1,11 @@
+{
+  "name": "smelljs",
+  "version": "1.0.0",
+  "description": "mkdir commits mkdir res-step2 git clone https://github.com/REPO/MODULE.git uut node commits.js > /dev/null node clean.js node report.js > report.txt node issues.js REPO/MODULE > issues.json node combine.js",
+  "main": "boxer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

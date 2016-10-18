@@ -1,0 +1,17 @@
+	git clone https://github.com/REPO/MODULE.git uut
+	node commits.js > /dev/null
+	node clean.js
+	node report.js > report.txt
+	node issues.js REPO/MODULE > issues.json
+	node combine.js
+
+	mv data.json results/MODULE.json
+	mv issues.json results/MODULE_issues.json
+
+	# add module to boxer.js
+	node boxer.js
+
+	node qser.js > qs.json 
+
+	node rq2.js MODULE
+	node result.js MODULE
